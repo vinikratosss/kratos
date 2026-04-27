@@ -1,0 +1,35 @@
+h1 {
+  color: #f5e027;
+  font-size: 50px; 
+  text-align: center;
+  border-radius: 3px;
+
+}
+
+h2 {
+  color: #f5e027;
+  font-size: 35px;
+  text-align: center;
+}
+
+p {
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+
+
+}
+.container {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;           
+    gap: 30px;                       
+}
+
+.item {
+    text-align: center;
+    color: white
+}
+
+.azul { background: #00274D}
+.vermelho { background: #E8505b}
